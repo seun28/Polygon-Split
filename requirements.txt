@@ -1,5 +1,6 @@
 streamlit
 geopandas
+matplotlib
 pandas
 shapely
 pathlib
